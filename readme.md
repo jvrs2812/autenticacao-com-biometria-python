@@ -6,8 +6,9 @@
 2 - apos configurar tudo iremos rodar o comando 
     docker-compose up -d
 
-3 - URI PARA CONEXAO mongodb://APSUNIP:APSUNIP@localhost:27017/?authMechanism=DEFAULT \n
-    SERA NECESSARIO INSTALAR BIBLIOTECA COMO O OPENCV 
+3 - URI PARA CONEXAO mongodb://APSUNIP:APSUNIP@localhost:27017/?authMechanism=DEFAULT 
+    
+4 - SERA NECESSARIO INSTALAR BIBLIOTECA COMO O OPENCV 
     pip install opencv-python
 
  apos isso sera necessario cadastrar um usuario direto no banco 

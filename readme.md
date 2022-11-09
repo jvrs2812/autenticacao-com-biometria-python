@@ -20,4 +20,4 @@
 5.2) Exemplo de insert de usuario
 > {  "_id": {    "$oid": "63687808428d1c94ebf9ccba"  },  "nome": "leo",  "nivel_usuario": 10,  "url_biometria": "C:/Users/jvrs_/Desktop/Projeto python/biometrias/biometrialeo.tif"}
 
-#E pronto !!!
+# E pronto !!!

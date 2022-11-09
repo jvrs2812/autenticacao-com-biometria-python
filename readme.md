@@ -1,10 +1,10 @@
 ## INSTALE ANTES DE TUDO O DOCKER
-1- APOS INSTALAR O DOCKER IREMOS RODAR O COMANDO PARA BAIXAR A IMAGEM DO MONGODB
+1) APOS INSTALAR O DOCKER IREMOS RODAR O COMANDO PARA BAIXAR A IMAGEM DO MONGODB
    docker pull mongo
 
 ## INICIANDO
-2 - apos configurar tudo iremos rodar o comando 
-    > docker-compose up -d
+2) Apos configurar tudo iremos rodar o comando 
+> docker-compose up -d
 
 3 - URI PARA CONEXAO mongodb://APSUNIP:APSUNIP@localhost:27017/?authMechanism=DEFAULT 
     

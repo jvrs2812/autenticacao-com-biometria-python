@@ -1,5 +1,5 @@
 # Instalando o Docker
-0) Será necessário ter o docker instalado para subir toda configuração de banco do projeto. Para isso basta acessar o link e baixar.<p>
+0) Será necessário instalar o Docker.<p>
     [Docker](https://www.docker.com/)
 
 

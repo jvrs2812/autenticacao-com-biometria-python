@@ -1,4 +1,8 @@
-## INSTALE ANTES DE TUDO O DOCKER
+# Instalando o Docker
+0) Será necessário ter o docker instalado para subir toda configuração de banco do projeto. Para isso basta acessar o link e baixar.
+[Docker](https://www.docker.com/)
+
+
 1) APOS INSTALAR O DOCKER IREMOS RODAR O COMANDO PARA BAIXAR A IMAGEM DO MONGODB
 > docker pull mongo
 

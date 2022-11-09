@@ -1,7 +1,7 @@
 # Instalando o Docker
 0) Será necessário instalar o Docker.<p>
-    [Docker](https://www.docker.com/)
-
+   Caso Seja Windows: [Docker](https://www.docker.com/) <p>
+   Caso Seja Linux: [Docker](https://docs.docker.com/engine/install/ubuntu/)
 
 1) APOS INSTALAR O DOCKER IREMOS RODAR O COMANDO PARA BAIXAR A IMAGEM DO MONGODB
 > docker pull mongo

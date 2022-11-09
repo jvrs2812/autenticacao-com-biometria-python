@@ -31,7 +31,7 @@
 
 | Participantes               | Github                       |
 | ----------------------------|------------------------------|
-| João Victor Ramos de Sousa  | [João](https://github.com/AbnerBonini22)|
+| João Victor Ramos de Sousa  | [João](https://github.com/jvrs2812)|
 | Ellen Fernanda Romano       | [Ellen]() |
 | Abner Alexandre Bonini      | [Abner](https://github.com/AbnerBonini22) |
      

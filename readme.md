@@ -37,7 +37,7 @@
   Caso a biometria informada seja encontrado no banco, o login será feito, caso não irá aparecer uma mensagem assim
   > <img src="https://github.com/jvrs2812/autenticacao-com-biometria-python/blob/main/imagens_readme/Error.png" width="350" title="hover text"> 
 
-  ## Caso precise de Biometrias .tif para testa segue o link com varias para download.
+  ## Caso precise de Biometrias .tif para testes segue o link com varias para download.
    > [Biometrias](http://bias.csr.unibo.it/fvc2000/download.asp)
 
  # APS UNIP 2022<p>

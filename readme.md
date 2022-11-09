@@ -16,7 +16,7 @@
 4) Será necessário instalar a biblioteca do opencv  <p>
    > pip install opencv-python
 
-5) Após isso será necessário cadastrar um usuário direto no banco no database admin sera necessario criar uma collection ### users <p>
+5) Após isso será necessário cadastrar um usuário direto no banco no database admin sera necessario criar uma collection <strong>users</strong> <p>
 
   > <img src="https://github.com/jvrs2812/autenticacao-com-biometria-python/blob/main/imagens_readme/collections.png" width="350" title="hover text">
    

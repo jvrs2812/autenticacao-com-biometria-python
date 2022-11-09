@@ -4,7 +4,7 @@
 
 ## INICIANDO
 2 - apos configurar tudo iremos rodar o comando 
-    >docker-compose up -d
+    > docker-compose up -d
 
 3 - URI PARA CONEXAO mongodb://APSUNIP:APSUNIP@localhost:27017/?authMechanism=DEFAULT 
     

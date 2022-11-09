@@ -18,6 +18,8 @@
 
 5) Após isso será necessário cadastrar um usuário direto no banco no database admin sera necessario criar uma collection users <p>
 
+  <img src="https://github.com/jvrs2812/autenticacao-com-biometria-python/blob/main/imagens_readme/collections.png" width="350" title="hover text">
+   
 6) Após isso sera necessario jogar a biometria para a pasta biometrias dentro do projeto e passar o caminho para o banco <p>
    > 📂 biometrias
 

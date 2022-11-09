@@ -1,6 +1,6 @@
 # Instalando o Docker
 0) Será necessário ter o docker instalado para subir toda configuração de banco do projeto. Para isso basta acessar o link e baixar.<p>
-    [Docker](https://www.docker.com/)
+    
 
 
 1) APOS INSTALAR O DOCKER IREMOS RODAR O COMANDO PARA BAIXAR A IMAGEM DO MONGODB
@@ -25,3 +25,13 @@
 > {  "_id": {    "$oid": "63687808428d1c94ebf9ccba"  },  "nome": "leo",  "nivel_usuario": 10,  "url_biometria": "C:/Users/jvrs_/Desktop/Projeto python/biometrias/biometrialeo.tif"}
 
 # E pronto !!!
+
+Sistema desenvolvido para fins didáticos.<p>
+Aps UNIP 2022<p>
+
+
+| Participantes               | Github                       |
+| ----------------------------|------------------------------|
+| João Victor Ramos de Sousa  | [João](https://github.com/AbnerBonini22)|
+| Ellen Fernanda Romano       | [Ellen]() |
+| Abner Alexandre Bonini      | [Abner](https://github.com/AbnerBonini22) |

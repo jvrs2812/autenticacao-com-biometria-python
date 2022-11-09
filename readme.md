@@ -34,7 +34,7 @@
   Ao clickar em autenticar ele irá pedir para que você selecione a imagem da digital na extensão .tif 
   > <img src="https://github.com/jvrs2812/autenticacao-com-biometria-python/blob/main/imagens_readme/telainicial.png" width="350" title="hover text">
   
-  Caso o usuário cadastro bata com algum usuário no banco, o login será feito, caso não irá aparecer uma mensagem assim
+  Caso a biometria informada seja encontrado no banco, o login será feito, caso não irá aparecer uma mensagem assim
   > <img src="https://github.com/jvrs2812/autenticacao-com-biometria-python/blob/main/imagens_readme/Error.png" width="350" title="hover text"> 
 
   ## Caso precise de Biometrias .tif para testa segue o link com varias para download.

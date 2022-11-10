@@ -46,7 +46,7 @@
 | Participantes               | Github                       |
 | ----------------------------|------------------------------|
 | João Victor Ramos de Sousa  | [João](https://github.com/jvrs2812)|
-| Ellen Fernanda Romano       | [Ellen]() |
+| Ellen Fernanda Romano       | [Ellen](https://github.com/EllenRomano) |
 | Abner Alexandre Bonini      | [Abner](https://github.com/AbnerBonini22) |
 | Marcos Otávio de Camargo Bianchi | [Marcos](https://github.com/devmbianchi) |
 | Jheny Santos                | [Jheny]() |
